@@ -39,12 +39,6 @@ jobs:
         run: npm install
       - name: Build
         run: npm run build
-      - name: List Files
-        # You may pin to the exact commit or the version.
-        # uses: mirko-felice/list-files-action@790c9737b7acae4a47b6afc896fc603780f16b5d
-        uses: mirko-felice/list-files-action@v3.0.5
-        with:
-          path: dist          
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
