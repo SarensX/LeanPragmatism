@@ -1,30 +1,24 @@
-# React + TypeScript + Vite
+# Lean Pragmatism.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the landing page for Lean Pragmatism.
 
-Currently, two official plugins are available:
+Agile ~~framework~~ without the fuzz.
+Just a mindset. No training required. No certification required. No badges given.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## One Value: Delivered Value
 
-## Expanding the ESLint configuration
+In the world of Lean Pragmatism, our core value is simple yet profound: Add Value. Every action, decision, and iteration should contribute meaningfully to the desired outcomes. We believe in cutting through the noise and focusing on what truly matters—adding value at every step. By emphasizing this value, we ensure that our efforts are purposeful, impactful, and aligned with the goals we aim to achieve.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## One Principle: Do it, as long as you can handle it and it creates value.
 
-- Configure the top-level `parserOptions` property like this:
+At Lean Pragmatism, we embrace the principle of Just Do It. No overthinking, no unnecessary delays—just take action. When faced with a challenge or question, our approach is to act swiftly and decisively. This principle embodies the spirit of getting things done, encouraging a proactive mindset that drives progress. By 'Just Doing It,' we foster a culture of initiative, empowerment, and continuous improvement.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## The Story of Lean Pragmatism
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+We are Stephan & Joachim. We've dedicated ourselves to living and teaching Scrum, SAFe, and fostering an agile mindset. But we've noticed something troubling: amidst the sea of frameworks and certifications, the true essence of agility often gets lost.
+
+We've seen teams struggle to adopt frameworks without embracing the agile mindset. One weekend, we found ourselves driving across Europe to help unblock a team. As we reflected during our journey over a beer, we thought about how the actual core mindset of agile seems to be forgotten too often.
+
+And that's how Lean Pragmatism was born—a way to keep agility alive in a world of frameworks and dogmas.
+
+First, understand and adopt the mindset. Only then, frameworks will really help you to scale and grow.
