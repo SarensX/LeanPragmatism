@@ -2,7 +2,7 @@ import { ReactElement } from 'react'
 
 function ValuePrinciple (): ReactElement {
   return (
-    <div className='justify-center flex flex-col items-center font-serif gap-12 min-h-screen p-8 text-center max-w-4xl m-auto'>
+    <div className='justify-center flex flex-col items-center font-serif gap-12 min-h-screen p-16 text-center max-w-4xl m-auto'>
       <div className='flex-grow' />
 
       {/* Value */}

@@ -2,7 +2,7 @@ import { ReactElement } from 'react'
 
 function Why (): ReactElement {
   return (
-    <div className='justify-center flex flex-col items-center font-serif gap-12 min-h-screen p-8 text-center max-w-2xl m-auto'>
+    <div className='justify-center flex flex-col items-center font-serif gap-12 min-h-screen p-16 text-center max-w-2xl m-auto'>
       {/* Value */}
       <div className='flex flex-col gap-4'>
         <h2 className='text-2xl'>
