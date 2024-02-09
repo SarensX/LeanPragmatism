@@ -23,7 +23,7 @@ function Footer (): ReactElement {
         <span>Joachim Ritter</span>
       </div>
       <p>
-        &copy; {year} Lean Pragmatism
+        &copy; {year} SarensX OÜ <a className='ml-8' href='/imprint.html'>Impressum</a>
       </p>
     </footer>
   )
