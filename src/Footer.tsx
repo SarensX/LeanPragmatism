@@ -6,7 +6,7 @@ function Footer (): ReactElement {
   const year = new Date().getFullYear()
 
   return (
-    <footer className='text-xs text-gray-500 py-4 absolute bottom-0 mt-0 z-10 text-center flex flex-col gap-3 bg-gray-100 w-full'>
+    <footer className='text-xs text-gray-500 py-4 md:sticky md:bottom-0 mt-0 md:z-10 text-center flex flex-col gap-3 bg-gray-100 w-full'>
       <div className='flex md:flex-row flex-col gap-2 justify-center'>
         <span><span className='line-through italic text-gray-400'>Invented</span> Written down by: </span>
         <div className='flex flex-row gap-2 justify-center'>

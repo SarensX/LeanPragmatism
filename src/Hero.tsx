@@ -12,7 +12,7 @@ function Hero (): ReactElement {
       <div className='flex-grow' />
 
       {/* Title */}
-      <h1 className='text-5xl'>
+      <h1 className='text-5xl text-center p-8'>
         Lean Pragmatism
       </h1>
 

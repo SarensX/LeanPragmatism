@@ -26,8 +26,8 @@ function FullPageComponent (): ReactElement {
     <div className='flex flex-col min-h-screen overflow-y-hidden'>
       <div className='full-page-container' onScroll={handleScroll}>
         <div id='hero' className='flex-none h-screen flex items-center justify-center'><Hero /></div>
-        <div id='valuePrinciple' className='flex-none h-screen flex items-center justify-center '><ValuePrinciple /></div>
-        <div id='why' className='flex-none h-screen flex items-center justify-center '><Why /></div>
+        <div id='valuePrinciple' className='flex-none min-h-screen flex items-center justify-center '><ValuePrinciple /></div>
+        <div id='why' className='flex-none min-h-screen flex items-center justify-center '><Why /></div>
         {/* Add more pages as needed */}
 
         <div className='dots-container'>
@@ -39,9 +39,10 @@ function FullPageComponent (): ReactElement {
             />
           ))}
         </div>
+
+        <Footer />
       </div>
 
-      <Footer />
     </div>
   )
 }
